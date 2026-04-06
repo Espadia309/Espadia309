@@ -7,7 +7,7 @@
 ## 🌀 About me
 
 - I use: **Python, Rust**  
-- Main editor: **Neovim (ew, stinky)**  
+- Main editor: **Neovim (miserable looser over here)**  
 - Currently:
   - Ricing my **Hyprland**
   - Working on a *cocoon* theme
@@ -20,7 +20,7 @@
 - **Hyprland rice — *Milk outside a bag of milk* theme**  
   → just looks insanely good
 
-- **AI that plays Mario World**  
+- **AI that plays Super Mario World**  
   → it learns by itself (inspired by Laupok)
 
 ---
