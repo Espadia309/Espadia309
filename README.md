@@ -1,33 +1,33 @@
 # 👋 Yo, I'm Espadia
 
-> Futur fraude du dev
+> Future dev fraud
 
 ---
 
-## 🌀 À propos de moi
+## 🌀 About me
 
-- J'utilise : **Python, Rust**  
-- Éditeur principal : **Neovim (bouh le puant)**  
-- Actuellement en train de :
-  - Rice mon **Hyprland**
-  - Travailler sur un thème *cocoon*
-  - Créer un **TUI pour écouter de la musique**
+- I use: **Python, Rust**  
+- Main editor: **Neovim (ew, stinky)**  
+- Currently:
+  - Ricing my **Hyprland**
+  - Working on a *cocoon* theme
+  - Building a **TUI music player**
 
 ---
 
-## 🚀 Projets cool
+## 🚀 Cool projects
 
-- **Rice Hyprland — thème *Milk outside a bag of milk***  
-  → trop beau juste voila
+- **Hyprland rice — *Milk outside a bag of milk* theme**  
+  → just looks insanely good
 
-- **IA qui joue à Mario World**  
-  → elle apprend toute seule (inspiré par Laupok)
+- **AI that plays Mario World**  
+  → it learns by itself (inspired by Laupok)
 
 ---
 
 ## ❤️ Fun facts
 
-- Ultime fan de **Tomodachi Life**
-- Passion pour les escaliers (je sais pas non plus moi oh)
+- Ultimate **Tomodachi Life** fan  
+- Obsessed with stairs (don’t ask, I don’t know either)
 
 ---
