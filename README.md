@@ -11,7 +11,6 @@
 - Currently:
   - Ricing my **Hyprland**
   - Working on a *cocoon* theme
-  - Building a **TUI music player**
 
 ---
 
