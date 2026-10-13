@@ -17,10 +17,10 @@
 ## 🚀 Cool projects
 
 - **Hyprland rice — *Milk outside a bag of milk* theme**  
-  → just looks insanely good
+  → just looks reaaaaaally good
 
-- **AI that plays Super Mario World**  
-  → it learns by itself (inspired by Laupok)
+- **DD Corp website**  
+  → a small robotics team website i made, kinda cool
 
 ---
 
