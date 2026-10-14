@@ -6,7 +6,7 @@
 
 ## 🌀 About me
 
-- I use: **Python, Rust**  
+- I use: **Python, javascript (i hate it)**  
 - Main editor: **Neovim (miserable looser over here)**  
 - Currently:
   - Ricing my **Hyprland**
